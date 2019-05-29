@@ -1,4 +1,4 @@
-var imgRegex = /\.(jpg|gif|png)$/i;
+var imgRegex = /\.(jpg|gif|png|webp|jpeg|tif)$/i;
 
 function p(e) {
     e.preventDefault();
